@@ -1,0 +1,14 @@
+C:\Users\joser\source\repos\App15xamarinforms\App15xamarinforms\App15xamarinforms\bin\Debug\netstandard2.0\App15xamarinforms.deps.json
+C:\Users\joser\source\repos\App15xamarinforms\App15xamarinforms\App15xamarinforms\bin\Debug\netstandard2.0\App15xamarinforms.dll
+C:\Users\joser\source\repos\App15xamarinforms\App15xamarinforms\App15xamarinforms\bin\Debug\netstandard2.0\ref\App15xamarinforms.dll
+C:\Users\joser\source\repos\App15xamarinforms\App15xamarinforms\App15xamarinforms\bin\Debug\netstandard2.0\App15xamarinforms.pdb
+C:\Users\joser\source\repos\App15xamarinforms\App15xamarinforms\App15xamarinforms\obj\Debug\netstandard2.0\App15xamarinforms.csprojAssemblyReference.cache
+C:\Users\joser\source\repos\App15xamarinforms\App15xamarinforms\App15xamarinforms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joser\source\repos\App15xamarinforms\App15xamarinforms\App15xamarinforms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\joser\source\repos\App15xamarinforms\App15xamarinforms\App15xamarinforms\obj\Debug\netstandard2.0\App15xamarinforms.AssemblyInfoInputs.cache
+C:\Users\joser\source\repos\App15xamarinforms\App15xamarinforms\App15xamarinforms\obj\Debug\netstandard2.0\App15xamarinforms.AssemblyInfo.cs
+C:\Users\joser\source\repos\App15xamarinforms\App15xamarinforms\App15xamarinforms\obj\Debug\netstandard2.0\App15xamarinforms.csproj.CoreCompileInputs.cache
+C:\Users\joser\source\repos\App15xamarinforms\App15xamarinforms\App15xamarinforms\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joser\source\repos\App15xamarinforms\App15xamarinforms\App15xamarinforms\obj\Debug\netstandard2.0\App15xamarinforms.dll
+C:\Users\joser\source\repos\App15xamarinforms\App15xamarinforms\App15xamarinforms\obj\Debug\netstandard2.0\ref\App15xamarinforms.dll
+C:\Users\joser\source\repos\App15xamarinforms\App15xamarinforms\App15xamarinforms\obj\Debug\netstandard2.0\App15xamarinforms.pdb
